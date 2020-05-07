@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fragmentReception"
+            android:icon="@drawable/ic_mic_black_24dp"
+            android:title="Reception" />
+        <item
+            android:id="@+id/fragmentTransmission"
+            android:icon="@drawable/ic_volume_up_black_24dp"
+            android:title="Transmission" />
+        <item
+            android:id="@+id/fragmentCalibrationTransmission"
+            android:icon="@drawable/ic_volume_up_black_24dp"
+            android:title="Calibration (TX)" />
+        <item
+            android:id="@+id/fragmentCalibrationReception"
+            android:icon="@drawable/ic_mic_black_24dp"
+            android:title="Calibration (RX)" />
+
+        <item
+            android:id="@+id/fragmentAttackerTransmission"
+            android:icon="@drawable/ic_volume_up_black_24dp"
+            android:title="Attacker (TX)" />
+    </group>
+
+</menu>

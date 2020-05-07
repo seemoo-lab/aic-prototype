@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/fragmentReception">
+
+    <fragment
+        android:id="@+id/fragmentReception"
+        android:name="de.tu_darmstadt.seemoo.aic_prototype.ui.RXFragment"
+        android:label="Reception"
+        tools:layout="@layout/fragment_reception" />
+
+    <fragment
+        android:id="@+id/fragmentTransmission"
+        android:name="de.tu_darmstadt.seemoo.aic_prototype.ui.TXFragment"
+        android:label="Transmission"
+        tools:layout="@layout/fragment_transmission" />
+
+    <fragment
+        android:id="@+id/fragmentCalibrationTransmission"
+        android:name="de.tu_darmstadt.seemoo.aic_prototype.ui.CalibrationTXFragment"
+        android:label="Calibration TX"
+        tools:layout="@layout/fragment_transmission" />
+
+    <fragment
+        android:id="@+id/fragmentCalibrationReception"
+        android:name="de.tu_darmstadt.seemoo.aic_prototype.ui.CalibrationRXFragment"
+        android:label="Calibration RX"
+        tools:layout="@layout/fragment_reception" />
+
+    <fragment
+        android:id="@+id/fragmentAttackerTransmission"
+        android:name="de.tu_darmstadt.seemoo.aic_prototype.ui.AttackerTXFragment"
+        android:label="Attacker TX"
+        tools:layout="@layout/fragment_transmission" />
+</navigation>
