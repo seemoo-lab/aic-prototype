@@ -28,3 +28,17 @@ Codes: Secure Device Pairing Using Short-Range Acoustic Communication.**
 In *WiSec ’20: 13th ACM Conference on Security and Privacy in Wireless and
 Mobile Networks*, July 08–10, 2020, Linz, Austria. ACM.
 
+If you use our project in academic research, please cite this paper:
+```
+@InProceedings{AcousticIntegrityCodes2020,
+  author    = {Putz, Florentin and Álvarez, Flor and Classen, Jiska},
+  booktitle = {Proceedings of the 13th Conference on Security and Privacy in Wireless and Mobile Networks},
+  date      = {2020},
+  title     = {{Acoustic Integrity Codes}: Secure Device Pairing Using Short-Range Acoustic Communication},
+  doi       = {10.1145/3395351.3399420},
+  publisher = {ACM},
+  series    = {WiSec '20},
+  url       = {https://doi.org/10.1145/3395351.3399420},
+}
+```
+
