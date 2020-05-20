@@ -26,7 +26,7 @@ This prototype requires a minimum Android API level of 21 (Android 5.0 or higher
 * Florentin Putz, Flor Álvarez, and Jiska Classen. 2020. **Acoustic Integrity
 Codes: Secure Device Pairing Using Short-Range Acoustic Communication.**
 In *WiSec ’20: 13th ACM Conference on Security and Privacy in Wireless and
-Mobile Networks*, July 08–10, 2020, Linz, Austria. ACM.
+Mobile Networks*, July 08–10, 2020, Linz, Austria. ACM. [pdf](https://arxiv.org/pdf/2005.08572.pdf)
 
 If you use our project in academic research, please cite this paper:
 ```
