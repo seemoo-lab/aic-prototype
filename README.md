@@ -31,7 +31,7 @@ Mobile Networks*, July 08–10, 2020, Linz, Austria. ACM. [pdf](https://arxiv.or
 If you use our project in academic research, please cite this paper:
 ```
 @InProceedings{AcousticIntegrityCodes2020,
-  author    = {Putz, Florentin and Álvarez, Flor and Classen, Jiska},
+  author    = {Putz, Florentin and {\'{A}}lvarez, Flor and Classen, Jiska},
   booktitle = {Proceedings of the 13th Conference on Security and Privacy in Wireless and Mobile Networks},
   date      = {2020},
   title     = {{Acoustic Integrity Codes}: Secure Device Pairing Using Short-Range Acoustic Communication},
